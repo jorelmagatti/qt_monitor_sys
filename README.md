@@ -17,7 +17,7 @@ Um simples monitor de sistemas com python PySide Qt Core
 
 ## Preview
 
-<iframe src="https://drive.google.com/file/d/1znWiTzQfpuuy-q0FkC34OtZt9AaZnwGL/preview" width="640" height="480" allow="autoplay"></iframe>
+<img align="center" alt="monitr_python_qt" src="https://drive.google.com/file/d/1znWiTzQfpuuy-q0FkC34OtZt9AaZnwGL/preview">
 
 ## Envirement
 
