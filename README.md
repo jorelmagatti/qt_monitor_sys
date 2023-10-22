@@ -15,6 +15,10 @@ Um simples monitor de sistemas com python PySide Qt Core
 
 > Um simples monitor de sistemas com python PySide Qt Core. O design foi criado no Qt-Designer e exportado para python, aproveitei esta base e refatorei para estrutura presente
 
+## Preview
+
+<img align="center" alt="monitr_python_qt" src="https://drive.google.com/file/d/1znWiTzQfpuuy-q0FkC34OtZt9AaZnwGL/view?usp=sharing">
+
 ## Envirement
 
 ```sh
